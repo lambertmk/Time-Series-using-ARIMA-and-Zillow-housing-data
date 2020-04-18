@@ -3,7 +3,7 @@ Module 4 Project
 
 mod_4_starter_notebook.ipynb: jupyter notebook used for this project
 
-github link:
+github link: https://github.com/lambertmk/Module-4-Project
 
 google slides link: https://docs.google.com/presentation/d/1qohvqViuZPv_MSQaawtA_QAwLGcn0NWcv8Z7iPLUV6s/edit#slide=id.g7673b104bc_0_31
 
